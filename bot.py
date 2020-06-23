@@ -606,4 +606,4 @@ async def s_wikipedia(ctx, *, wkipedia = None):
         await ctx.send(embed= emb)
 
 token = os.environ.get('BOT_TOKEN')
-bot.run(str(token))
+Bot.run(str(token))
