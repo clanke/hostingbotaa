@@ -14,7 +14,6 @@ from discord.utils import get
 import threading
 from threading import Timer
 import tracemalloc
-import reaction
 from discord import Webhook, AsyncWebhookAdapter
 import aiohttp
 import roblox
