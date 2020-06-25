@@ -17,7 +17,6 @@ import tracemalloc
 from discord import Webhook, AsyncWebhookAdapter
 import aiohttp
 import os
-import wikipedia
 
 Bot = commands.Bot(command_prefix= '/')
 
