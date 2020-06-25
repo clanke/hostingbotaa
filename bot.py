@@ -16,7 +16,6 @@ from threading import Timer
 import tracemalloc
 from discord import Webhook, AsyncWebhookAdapter
 import aiohttp
-import roblox
 import os
 import wikipedia
 
